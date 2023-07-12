@@ -575,6 +575,15 @@ entries:
     urls:
     - https://github.com/iits-consulting/charts/releases/download/crds-1.4.1/crds-1.4.1.tgz
     version: 1.4.1
+  db-init:
+  - apiVersion: v2
+    created: "2023-07-12T09:06:31.837181127Z"
+    description: A Helm chart to initialize a database
+    digest: 50203da1cb2ab4ca6d67d7dc527e7c910f3ee1349458e2ffa93d77b88e49d7ad
+    name: db-init
+    urls:
+    - https://github.com/victorgetz/charts/releases/download/db-init-0.1.1/db-init-0.1.1.tgz
+    version: 0.1.1
   elastalert:
   - apiVersion: v2
     created: "2023-06-05T15:27:50.854954147Z"
@@ -2007,4 +2016,4 @@ entries:
     urls:
     - https://github.com/iits-consulting/charts/releases/download/traefik-0.2.4-multiple-upload/traefik-0.2.4-multiple-upload.tgz
     version: 0.2.4-multiple-upload
-generated: "2023-07-12T07:51:03.842573298Z"
+generated: "2023-07-12T09:06:32.002403942Z"
